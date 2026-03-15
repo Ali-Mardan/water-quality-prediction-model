@@ -1,0 +1,15 @@
+﻿--- Total Alkalinity ---
+RandomForest        : R2 = 0.546, RMSE = 50.877
+GradientBoosting    : R2 = 0.301, RMSE = 63.103
+Ridge               : R2 = 0.133, RMSE = 70.267
+
+--- Electrical Conductance ---
+RandomForest        : R2 = 0.585, RMSE = 220.214
+GradientBoosting    : R2 = 0.343, RMSE = 276.965
+Ridge               : R2 = 0.145, RMSE = 315.952
+
+--- Dissolved Reactive Phosphorus ---
+RandomForest        : R2 = 0.529, RMSE = 35.182
+GradientBoosting    : R2 = 0.247, RMSE = 44.489
+Ridge               : R2 = 0.012, RMSE = 50.967
+
