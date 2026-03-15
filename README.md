@@ -30,4 +30,4 @@ The project is organized into a standard MLOps-ready structure:
 The best performing model (XGBoost production pipeline) achieved significant predictive accuracy, with detailed performance metrics and tuning curves available in the `reports/` directory.
 
 ---
-*Created as part of the EY Datathon 2024/2025 competition.*
+*Created as part of the EY Datathon competition.*
